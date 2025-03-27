@@ -150,16 +150,11 @@
 .fj_sb {
     justify-content: space-between;
 }
-.fj_sbc {
-    justify-content: space-between;
-}
-.fj_sbc:before,
-.fj_sbc:after {
-    content: "";
-    display: block;
-}
 .fj_sa {
     justify-content: space-around;
+}
+.fj_se {
+    justify-content: space-evenly;
 }
 .fw_nw {
     flex-wrap: nowrap;
